@@ -1,7 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # AgentFlow
 
 워크플로우 그래프를 캔버스에서 편집하고, 자연어로 그래프를 생성·수정하며, 노드별 코드와 시뮬레이션(RAG·라우터·보고서 등)을 한 화면에서 다루는 로컬 웹 앱입니다.

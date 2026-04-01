@@ -1,0 +1,1 @@
+{"root":["./vite.config.ts","./server/postgresRoutes.ts","./server/reportRoutes.ts","./server/serveProd.ts"],"version":"5.8.3"}

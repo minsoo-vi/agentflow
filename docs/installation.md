@@ -34,7 +34,7 @@ npm -v
 
 | 변수 | 설명 |
 |------|------|
-| `GEMINI_API_KEY` | Google Gemini API 호출에 사용됩니다. 워크플로/AI 기능을 쓰려면 설정하는 것이 좋습니다. |
+| `GEMINI_API_KEY` | Gemini API 호출에 사용됩니다. 워크플로/AI 기능을 쓰려면 설정하는 것이 좋습니다. |
 | `TAVILY_API_KEY` | Tavily 검색 API를 사용할 때 필요합니다. |
 | `APP_URL` | 배포 URL·자기 참조 링크 등에 사용됩니다. 로컬 개발만 할 때는 비워 두거나 `http://localhost:3000` 등으로 둘 수 있습니다. |
 

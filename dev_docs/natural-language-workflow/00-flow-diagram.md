@@ -26,7 +26,7 @@ flowchart TB
     H --> I[JSON 스키마·규칙 블록]
   end
 
-  subgraph Gemini["Google GenAI Gemini"]
+  subgraph Gemini["Gemini (GenAI)"]
     J["generateContent responseMimeType: application/json"]
   end
 

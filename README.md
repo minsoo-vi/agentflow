@@ -49,7 +49,7 @@ flowchart TB
   end
 
   subgraph external["외부 서비스"]
-    Gemini["Google Gemini API"]
+    Gemini["Gemini API"]
     Tavily["Tavily api.tavily.com"]
     Langfuse["Langfuse 선택"]
   end
